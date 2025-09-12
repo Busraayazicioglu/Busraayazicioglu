@@ -1,6 +1,6 @@
 <!-- Profil Başlığı -->
 <h1 align="center">Merhaba 👋, ben Büşra</h1>
-<h3 align="center">Yazılım mühendisliği öğrencisiym.</h3>
+<h3 align="center">Yazılım mühendisliği öğrencisiym.👩🏻‍💻👩🏻‍💻 </h3>
 
 ---
 
