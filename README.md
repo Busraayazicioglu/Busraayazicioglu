@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Hakkımda
 - 🌱 Şu anda kendimi geliştiriyorum: Front-end Teknolojileri
-- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/busrayzc/)
+- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/busraayazicioglu/)
 
 
 ---
@@ -29,16 +29,16 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Busrayzc&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busrayzc&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Busraayazicioglu&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busraayazicioglu&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
 ### 🌐 Sosyal Medya & Bağlantılar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrayzc/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Busrayzc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busraayazicioglu/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Busraayazicioglu)
 
 ---
 
