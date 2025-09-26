@@ -46,6 +46,4 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Busrayzc&style=flat&color=blue)
 
----
 
-> “Kod yazmak sadece iş değil, aynı zamanda bir tutku.”
